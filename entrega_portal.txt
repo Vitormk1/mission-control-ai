@@ -1,0 +1,19 @@
+Nome da missão:
+Ares Sentinel One
+
+Nome da equipe:
+Equipe Mission Control
+
+Integrantes:
+Nome do integrante 1 – RM: XXXXX
+Nome do integrante 2 – RM: XXXXX
+Nome do integrante 3 – RM: XXXXX
+
+RM dos integrantes:
+XXXXX, XXXXX, XXXXX
+
+Link do repositório GitHub:
+https://github.com/SEU-USUARIO/mission-control-ai
+
+Link do vídeo pitch no YouTube:
+https://youtube.com/SEU-LINK-DO-VIDEO
